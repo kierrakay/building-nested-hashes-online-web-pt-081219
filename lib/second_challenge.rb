@@ -24,6 +24,7 @@ epic_tragedy = {
     :hero => {},
     :hero_friends => []
   }
+  :
 }
 end
 
